@@ -79,10 +79,20 @@ Then try openng browser with port [localhost:8080](http://localhost:8080)
 
 #### Setting up Jenkins
 
-You may see an image like this, enter the **password** you copied from above and paste it here and proceed.
+You may see an image like this, enter the **password** you copied from above and paste it here and **continue**.
+
+<img width="1440" alt="Screenshot 2020-06-07 at 12 09 04" src="https://user-images.githubusercontent.com/10527102/83962568-1225b300-a8bc-11ea-9d79-7a1e34acf778.png">
 
 Then choose **Install suggested plugins**, give it some time to install
 
-Then setup the admin password and remember this 😅
+<img width="1368" alt="Screenshot 2020-06-07 at 12 29 34" src="https://user-images.githubusercontent.com/10527102/83962597-397c8000-a8bc-11ea-9ef9-2a1b5ac2f893.png">
 
-Then you see the following step and proceed till you see a screen **Jenkins is Ready**
+<img width="1368" alt="Screenshot 2020-06-07 at 12 30 26" src="https://user-images.githubusercontent.com/10527102/83962576-18b42a80-a8bc-11ea-844c-7f02da8e2fe3.png">
+
+Then setup the admin password and remember this 😅 and click **save and Continue** till you see a screen **Jenkins is Ready**
+
+<img width="1440" alt="Screenshot 2020-06-07 at 12 35 47" src="https://user-images.githubusercontent.com/10527102/83962574-181b9400-a8bc-11ea-9539-1cf7b9eaa409.png">
+
+<img width="1422" alt="Screenshot 2020-06-07 at 12 36 05" src="https://user-images.githubusercontent.com/10527102/83962573-1782fd80-a8bc-11ea-99f2-3084ebd52be8.png">
+
+<img width="1440" alt="Screenshot 2020-06-07 at 12 36 15" src="https://user-images.githubusercontent.com/10527102/83962572-1651d080-a8bc-11ea-8712-11567d9584ea.png">
